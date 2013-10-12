@@ -6,14 +6,18 @@
 		<body>
 			<h1> Dom Wedgwood's work at General Assembly</h1>
 			<ul>
-				<li><a href="art-is-hard">Art is hard</a></li>
-				<li><a href="art-is-hard copy">Art is hard copy</a></li>
-				<li><a href="brooklyn">Brooklyn</a></li>
-				<li><a href="cookie-monster">Cookie Monster</a></li>
-				<li><a href="ecardly">Ecardly</a></li>
-				<li><a href="lost-cat">Lost Cat</a></li>
-				<li><a href="pagelayout">Pagelayout</a></li>
-				<li><a href="template">Template</a></li>
+				<li><a href="art-is-hard/index.html">Art is hard</a></li>
+				<li><a href="art-is-hard copy/index.html">Art is hard copy</a></li>
+				<li><a href="brooklyn/index.html">Brooklyn</a></li>
+				<li><a href="cookie-monster/index.html">Cookie Monster</a></li>
+				<li><a href="ecardly/index.html">Ecardly</a></li>
+				<li><a href="lost-cat/index.html">Lost Cat</a></li>
+				<li><a href="pagelayout/index.html">Pagelayout</a></li>
+				<li><a href="nav-simple/index.html">Nav Simple</a></li>
+				<li><a href="nav-image/index.html">Nav Image</a></li>
+				<li><a href="two-column-layout/index.html">Two Column Layout</a></li>
+				<li><a href="float_positioning/index.html">Float Positioning</a></li>
+				
 			</ul>
 
 	</body>
