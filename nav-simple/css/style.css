@@ -3,5 +3,69 @@
 
 
 
+body,html { 
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#333;
+}
+
+header {
+	background: white;
+	height: 80px;
+	margin-top: 20px;	
+}
+
+li {
+	float: left;
+}
+
+nav {
+	width: 600px;
+	margin:0 auto;
+
+}
+
+nav ul {
+	padding: 0px;
+}
+
+li {
+	float: left;
+	width: 190px;
+	margin: 0 4px;
+	height: 40px;
 
 
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+
+nav ul li a {
+	background-color: #FF6666;
+	width: 190px;
+	display: block;
+	height: 40px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	vertical-align: middle;
+	font-size: 22px;
+	padding-top: 13px;
+}
+
+nav ul li a:hover, a:active {
+	background-color: #FF2266;
+}

@@ -11,8 +11,48 @@ body,html {
 
 header {
 	background: #000;
-	height: 80px;	
+	height: 70px;	
 }
+
+
+
+nav {
+	width: 600px;
+	
+}
+
+nav ul {
+	padding: 0px;
+}
+
+
+li {
+/*	width:70px;
+	height:40px;*/
+/*	margin:0 5px;
+*/	float: left;
+	
+}
+
+nav ul li a {
+	width: 70px;
+	height: 40px;
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding-top: 30px;
+	font-size: 12px;
+	text-align: center;
+
+}
+
+nav ul li a:hover, a.active {
+	background: url("../images/bg_nav_rollover.png");
+
+}
+
+
+
 
 /*----------------------------------------------------------------------------- 
 NAVIGATION 
