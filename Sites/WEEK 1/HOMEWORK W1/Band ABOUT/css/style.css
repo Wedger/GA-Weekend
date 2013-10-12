@@ -1,0 +1,48 @@
+/* 
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+*/
+
+
+
+body {
+     background-image: url('../images/bastille-hair-holding.jpg');
+     background-position: center;
+     background-attachment: fixed;
+     -webkit-background-size: cover; 
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+
+}
+
+h1 { 
+     font-size: 50px
+     margin-top: 2px;
+     margin-right: 0px;
+     margin-bottom: 2px;
+     margin-left: 0px;
+}
+
+p {
+     margin: 40px;
+     line-height: 1.5em;
+     font-size: 14px;
+}
+
+article {
+     border-style:solid;
+     border-color:white;
+     border-width:1px;
+}
+
+#container {
+     background-color:black;
+     color: white;
+     width: 400px;
+     padding: 20px;
+}
+footer {padding: 10px 0;
+}
