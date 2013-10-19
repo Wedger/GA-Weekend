@@ -1,0 +1,65 @@
+
+
+/*****************************/		
+/*        GENERAL             *
+/*****************************/	
+
+
+
+
+
+#container {
+	width: 80%;
+	margin:0 auto;
+	margin-bottom: 40em;
+}
+
+
+nav {
+	width: 600px;
+	
+}
+
+nav ul {
+	padding: 0px;
+}
+
+li {
+	width:70px;
+	height:40px;
+	float: left;
+	text-decoration: none;
+	
+}
+nav ul li a {           
+	display: block;           
+	padding: 30px;           
+	text-decoration: none;           
+	color: white;
+}
+
+nav ul li a:hover, a.active {
+	background: url("../images/menu_sprite.png");
+
+}
+nav ul li a:hover {           
+	background-position: 0 0;      
+}
+
+article {
+	background-color:white;
+	
+}
+
+p {
+	padding: 20px;
+}
+
+
+
+/*****************************/		
+/*  CSS SPRITE NAVIGATION     *
+/*****************************/	
+	
+
+	
